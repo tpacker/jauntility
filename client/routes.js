@@ -16,7 +16,7 @@
 
 
 //Router.route('/post/:_id', function () 
-Router.route('/', function () 
+Router.route('/', function ()
 {
 	// use the template named ApplicationLayout for our layout
 	this.layout('ApplicationLayout');
