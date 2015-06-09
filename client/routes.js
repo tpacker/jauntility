@@ -8,10 +8,6 @@
 	// this.route('home', {
 		// path: '/'
 	// });
-	
-	// Router.route('tasks', function () {
-		// this.layout('ApplicationLayout');
-	// });
 // });
 
 
